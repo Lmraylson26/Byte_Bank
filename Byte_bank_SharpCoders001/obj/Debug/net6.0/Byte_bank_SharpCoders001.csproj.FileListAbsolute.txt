@@ -1,0 +1,15 @@
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\bin\Debug\net6.0\Byte_bank_SharpCoders001.exe
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\bin\Debug\net6.0\Byte_bank_SharpCoders001.deps.json
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\bin\Debug\net6.0\Byte_bank_SharpCoders001.runtimeconfig.json
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\bin\Debug\net6.0\Byte_bank_SharpCoders001.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\bin\Debug\net6.0\Byte_bank_SharpCoders001.pdb
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.csproj.AssemblyReference.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.AssemblyInfoInputs.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.AssemblyInfo.cs
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.csproj.CoreCompileInputs.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\refint\Byte_bank_SharpCoders001.dll
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.pdb
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\Byte_bank_SharpCoders001.genruntimeconfig.cache
+D:\Raylson\01 - PROJETOS\Sharp_Coders\Projetos\Byte_bank_SharpCoders001\Byte_bank_SharpCoders001\obj\Debug\net6.0\ref\Byte_bank_SharpCoders001.dll
